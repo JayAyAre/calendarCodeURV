@@ -1,0 +1,11 @@
+{
+    "cajas": [
+      { "dia": "Lunes", "mes": "10", "año": "2024" },
+      { "dia": "Martes", "mes": "10", "año": "2024", "img": "image.png", "evento": "Reunión de equipo" },
+      { "dia": "Miércoles", "mes": "10", "año": "2024" },
+      { "dia": "Jueves", "mes": "10", "año": "2024", "img":  "image.png", "evento": "Presentación" },
+      { "dia": "Viernes", "mes": "10", "año": "2024" },
+      { "dia": "Sábado", "mes": "10", "año": "2024", "img":  "image.png", "evento": "Fiesta" },
+      { "dia": "Domingo", "mes": "10", "año": "2024" }
+    ]
+}
